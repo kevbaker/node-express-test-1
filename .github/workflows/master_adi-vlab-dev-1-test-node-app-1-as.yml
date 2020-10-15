@@ -31,5 +31,5 @@ jobs:
       with:
         app-name: 'adi-vlab-dev-1-test-node-app-1-as'
         slot-name: 'production'
-        publish-profile: ${{ secrets.AzureAppService_PublishProfile_b4baff5e86074d5fa8bd9a545870d019 }}
+        publish-profile: ${{ secrets.AzureAppService_PublishProfile_763f3f2575c74a4b8afa3e828aff355d }}
         package: .
